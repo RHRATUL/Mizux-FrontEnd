@@ -1,0 +1,57 @@
+
+
+
+#shadow{
+
+box-shadow: 5px 2px 5px #78e08f ;
+background: #fff;
+opacity: 0.9;
+}
+
+.text_size a{
+    font-size: 25px;
+}
+
+.text_size a:hover{
+    
+    background-color: #2bcbba;
+
+
+
+}
+
+#home{
+
+    background-image: url(./img/mountains.jpg);
+
+ 
+}
+
+/* .primary_overlay{
+
+background: #51A1AD;
+
+width: 100%;
+height: 900;
+opacity: 0.8;
+} */
+
+#authors img{
+    margin-top: -70px;
+}
+
+.my_card:hover{
+    
+    background: #2bcbba;
+    transition: 0.5s;
+
+}
+
+.fab{
+    font-size: 30px;
+}
+
+.fab:hover{
+    color: black;
+    
+}
